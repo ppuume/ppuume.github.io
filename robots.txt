@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ppuu.me
+
+# Sitemaps
+Sitemap: https://ppuu.me/sitemap.xml
